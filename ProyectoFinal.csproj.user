@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Formularios\FacturaFormulario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\PedidosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\RegistroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Listas\CategoriasLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ClientesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\FormularioCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InicioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Listas\ClientesLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Listas\ProductosLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Listas\ProveedoresLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ProveedoresForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\RegistroProductosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OtrasPantallas\Facturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OtrasPantallas\PedidosProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\ReporteVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
